@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : warning LNK4248: unresolved typeref token (01000026) for 'fftw_plan_s'; image may not run
+  EEGLogger.vcxproj -> C:\Users\Will\Dropbox\IpsiHand\SSVEP Project Folder\EEGLogger\EEGLoggerClean\EEGLogger\Debug\EEGLogger.exe
